@@ -1,3 +1,3 @@
 # Navsanjeevan
 
-A website which is developed for navasanjeevan ngo.
+A website which is developed for navsanjeevan ngo.
